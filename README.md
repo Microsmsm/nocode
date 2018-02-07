@@ -47,7 +47,8 @@ It's that simple. And when it comes time to scale the application, all you have 
 ```
 
 I know right?
-ويعمل ايه الكود في وطن ضايع؟... يا راجل كبر مخك :D
+
+ويعمل ايه الكود في وطن ضايع؟... يا راجل كبر مخك
 
 ## Contributing
 
